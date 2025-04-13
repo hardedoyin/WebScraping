@@ -1,5 +1,4 @@
 # import the requests HTTP library and BeautifulSoup for parsing HTML
-from turtle import title
 import requests
 from bs4 import BeautifulSoup
 import pprint
